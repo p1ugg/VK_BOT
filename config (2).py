@@ -1,2 +1,2 @@
-open_weather_token = '782c9a36037176f6db356fa681573dae'
-tk_bot = 'f697a3220c710a8bd991fc5050613af77a01756d01388148d07cbaad9e4a2b03259d87d744dff9bce6f94'
+open_weather_token = ''
+tk_bot = ''
